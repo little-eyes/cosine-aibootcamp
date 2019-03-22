@@ -7,4 +7,8 @@ For this session, we translate some important parts in Swirl class into Python s
 | [Asymptotics](swirl-asymptotics.ipynb) |
 | [T Confidence Interval](swirl-t-confidence-interval.ipynb) |
 | [Resampling](swirl-resampling.ipynb) |
-| more to come (TBD) |
+| [P-Value](swirl-p-value.ipynb) |
+| [Hypothesis Testing](https://towardsdatascience.com/hypothesis-testing-in-machine-learning-using-python-a0dc89e169ce) |
+| [Power](swirl-power.ipynb) |
+| [Power Reference](https://machinelearningmastery.com/statistical-power-and-power-analysis-in-python/) |
+| [Multiple Testing](swirl-multiple-testing.ipynb) |
