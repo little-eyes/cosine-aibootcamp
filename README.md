@@ -18,3 +18,4 @@ $ jupyter lab
 | -------------- | ----- |
 | 2              | [Basic Stats 1: Probability and Distributions](stats-1/homework.ipynb) |
 | 3              | [Basic Stats 2: Hypothesis Testing](stats-2/README.md) |
+| 4              | [Exploratory Data Analysis](exploratory-analysis/README.md) |
